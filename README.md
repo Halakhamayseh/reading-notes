@@ -4,8 +4,8 @@
 * Code-201-Daily-Reading
 * Code-301-Daily-Reading
 ### About
-This repo was created for Software development course levels reading.
-###  Code-102-Daily-Reading(Intro to Software Development)
+*This repo was created for Software development course levels reading.*
+###  **Code-102-Daily-Reading(Intro to Software Development)**
 |Topic title |Topic link|
 |------------|----------|
 |The growth mindset|[link](https://halakhamayseh.github.io/Reading-notes/)|
@@ -17,7 +17,7 @@ This repo was created for Software development course levels reading.
 |loop and operators|[link](https://halakhamayseh.github.io/new-reading-notes/loop%20and%20oper)|
 |javascript2|[link](https://halakhamayseh.github.io/new-reading-notes/javascript2)|
 
-### Code-201-Daily-Reading (Foundations of Software Development)
+### **Code-201-Daily-Reading (Foundations of Software Development)**
 |Topic title |Topic link|
 |------------|----------|
 |HTML&js introduction|[link](https://halakhamayseh.github.io/201code_reading-notes/class01)|
@@ -35,7 +35,7 @@ This repo was created for Software development course levels reading.
 |LOCAL STORAGE|[link](https://halakhamayseh.github.io/201code_reading-notes/class13)|
 |Transforms&Transitions & Animations|[link](https://halakhamayseh.github.io/201code_reading-notes/class14a)|
 |The google article|[link](https://halakhamayseh.github.io/201code_reading-notes/class14b)|
-###  Code-301-Daily-Reading( Intermediate Software Development)
+###  **Code-301-Daily-Reading( Intermediate Software Development)**
 |Topic title |Topic link|
 |------------|----------|
 |SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class01(301))|
