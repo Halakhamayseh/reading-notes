@@ -1,7 +1,8 @@
 # Reading-Notes-Content
 1. About
-2. level 1(code 101) (web site & web app,frontend&Backend)
-3. level 2(102,201,301,401)
+2. level 1 
+   * (code 101) (web site & web app,frontend&Backend)
+3. level 2 
    * Code-102-Daily-Reading
    * Code-201-Daily-Reading
    * Code-301-Daily-Reading
