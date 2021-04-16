@@ -38,5 +38,5 @@ This repo was created for Software development course levels reading.
 ###  Code-301-Daily-Reading( Intermediate Software Development)
 |Topic title |Topic link|
 |------------|----------|
-|SMACSS and Responsive Web Design|[link]()|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class01(301))|
 
