@@ -55,7 +55,7 @@
 |EJS|[link](https://halakhamayseh.github.io/Reading-Notes-/class11(301))|
 |Components|[link](https://halakhamayseh.github.io/Reading-Notes-/class12(301))|
 |Update/Delete|[link](https://halakhamayseh.github.io/Reading-Notes-/class13(301))|
-|DB Normalization|[link](https://halakhamayseh.github.io/Reading-Notes-/class14(301))|
+|DB Normalization|[link](https://halakhamayseh.github.io/Reading-Notes-/class14a(301))|
 |Diversity and Inclusion|[link](https://halakhamayseh.github.io/Reading-Notes-/class15(301))|
 ###  **Code 401 - Advanced Software Development**
 |Topic title |Topic link|
