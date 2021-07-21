@@ -46,5 +46,5 @@
 ###  **Code 401 - Advanced Software Development**
 |Topic title |Topic link|
 |------------|----------|
-|Java Basics|[link](https://halakhamayseh.github.io/Reading-Notes-/class01(401))|
+|Java Basics|[link](https://halakhamayseh.github.io/Reading-Notes-/401class01)|
 
