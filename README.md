@@ -43,4 +43,8 @@
 |Topic title |Topic link|
 |------------|----------|
 |SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class01(301))|
+###  **Code 401 - Advanced Software Development**
+|Topic title |Topic link|
+|------------|----------|
+|Java Basics|[link](https://halakhamayseh.github.io/Reading-Notes-/class01(401))|
 
