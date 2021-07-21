@@ -43,6 +43,20 @@
 |Topic title |Topic link|
 |------------|----------|
 |SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class01(301))|
+|jQuery, Events, and The DOM|[link](https://halakhamayseh.github.io/Reading-Notes-/class02(301))|
+|Flexbox and Templating|[link](https://halakhamayseh.github.io/Reading-Notes-/class03(301))|
+|Responsive Web Design and Regular Expressions|[link](https://halakhamayseh.github.io/Reading-Notes-/class04(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class05(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class06(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class07(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class08(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class09(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class10(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class11(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class12(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class13(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class14(301))|
+|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class15(301))|
 ###  **Code 401 - Advanced Software Development**
 |Topic title |Topic link|
 |------------|----------|
