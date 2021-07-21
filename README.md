@@ -46,17 +46,17 @@
 |jQuery, Events, and The DOM|[link](https://halakhamayseh.github.io/Reading-Notes-/class02(301))|
 |Flexbox and Templating|[link](https://halakhamayseh.github.io/Reading-Notes-/class03(301))|
 |Responsive Web Design and Regular Expressions|[link](https://halakhamayseh.github.io/Reading-Notes-/class04(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class05(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class06(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class07(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class08(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class09(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class10(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class11(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class12(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class13(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class14(301))|
-|SMACSS and Responsive Web Design|[link](https://halakhamayseh.github.io/Reading-Notes-/class15(301))|
+|Heroku Deployment|[link](https://halakhamayseh.github.io/Reading-Notes-/class05(301))|
+|Node, Express, and APIs|[link](https://halakhamayseh.github.io/Reading-Notes-/class06(301))|
+|APIs continued|[link](https://halakhamayseh.github.io/Reading-Notes-/class07(301))|
+|SQL|[link](https://halakhamayseh.github.io/Reading-Notes-/class08(301))|
+|Refactoring|[link](https://halakhamayseh.github.io/Reading-Notes-/class09(301))|
+|The Call Stack and Debugging|[link](https://halakhamayseh.github.io/Reading-Notes-/class10(301))|
+|EJS|[link](https://halakhamayseh.github.io/Reading-Notes-/class11(301))|
+|Components|[link](https://halakhamayseh.github.io/Reading-Notes-/class12(301))|
+|Update/Delete|[link](https://halakhamayseh.github.io/Reading-Notes-/class13(301))|
+|DB Normalization|[link](https://halakhamayseh.github.io/Reading-Notes-/class14(301))|
+|Diversity and Inclusion|[link](https://halakhamayseh.github.io/Reading-Notes-/class15(301))|
 ###  **Code 401 - Advanced Software Development**
 |Topic title |Topic link|
 |------------|----------|
